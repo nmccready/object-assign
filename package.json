@@ -17,7 +17,8 @@
     "bench": "matcha bench.js"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "browser.js"
   ],
   "keywords": [
     "object",
