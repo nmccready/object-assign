@@ -13,7 +13,7 @@
     "node": ">=0.10.0"
   },
   "scripts": {
-    "test": "xo && mocha",
+    "test": "xo && mocha test*.js",
     "bench": "matcha bench.js"
   },
   "files": [

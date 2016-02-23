@@ -4,7 +4,7 @@ Object.assign = undefined;
 var objectAssign = require('./');
 
 it('should have the correct length', function () {
-	assert.equal(objectAssign.length, 2);
+	assert.equal(objectAssign.length, 1);
 });
 
 it('should throw when target is not an object', function () {
